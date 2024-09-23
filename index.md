@@ -1,6 +1,5 @@
-# H1 Header
-# This is The Second Header
-# This is The Third Header
-# This is The Fourth Header
-# This is The Fifth Header
-# This is The Sixth Header
+# This is the Header for the Sample Markdown File
+
+### Adding Image
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
